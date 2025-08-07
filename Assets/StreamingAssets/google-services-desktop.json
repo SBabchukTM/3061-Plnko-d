@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "894126686751",
+    "project_id": "plnko-d",
+    "storage_bucket": "plnko-d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894126686751:android:ae3c6772b279ed8a754b2a",
+        "android_client_info": {
+          "package_name": "com.investagrams.investagra"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwFkOWOW5NOaEx02CWjW6c7LesFSZwtI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
